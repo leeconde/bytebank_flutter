@@ -1,4 +1,4 @@
-import 'package:bitbank/database/app_database.dart';
+import 'package:bitbank/database/dao/app_database.dart';
 import 'package:bitbank/models/contact.dart';
 import 'package:sqflite/sqflite.dart';
 

@@ -1,13 +1,8 @@
-import 'package:bitbank/database/app_database.dart';
-import 'package:bitbank/screens/contacts_list.dart';
 import 'package:bitbank/screens/dashboard.dart';
 import 'package:flutter/material.dart';
 
-import 'models/contact.dart';
-
 void main() {
   runApp(BitBankApp());
-  
 }
 
 class BitBankApp extends StatelessWidget {
